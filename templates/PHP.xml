@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="user" value="$DATE$ $TIME$" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
